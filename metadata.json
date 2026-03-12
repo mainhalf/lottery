@@ -1,0 +1,5 @@
+{
+  "name": "自定义抽奖轮盘",
+  "description": "一个可以自定义奖项、数量和概率的互动抽奖轮盘应用。",
+  "requestFramePermissions": []
+}
